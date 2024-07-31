@@ -1,8 +1,22 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Cesar+Pulido;+Backend+Developer;" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=false&vCenter=true&width=600&height=55&duration=6000&lines=Cesar+Pulido;Code+with+Purpose" />
 </h1>
+
+## Hey!
+
+- 🧔 I'm Cesar, passionate about learning new technologies.
+
+- 🗺️ From Bogotá, Colombia.
+
+- 👨‍💻 I'm currently focused on Backend Development.
+
+- 👇 Take a look at my projects.
 
 <h3 align="left">Tools & Technologies</h3>
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=java,js,docker,kubernetes,mongodb,mysql,postgres,django,spring,express,postman,github,git,aws,gcp,vscode,py,bootstrap&perline=7&theme=dark" >
+  <img src="https://skillicons.dev/icons?i=java,js,docker,kubernetes,mongodb,mysql,postgres,django,spring,nodejs,express,postman,github,git,aws,gcp,vscode,py,bootstrap&perline=7&theme=dark" >
 </p>
+
+[`📫 cesaraupc@gmail.com`](mailto:maximousblk@gmail.com)
+[`💼 LinkedIn - Cesar Pulido`](https://www.linkedin.com/in/cesar-pulido-b01a2a187/)
+
