@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=false&vCenter=true&width=600&height=55&duration=6000&lines=Cesar+Pulido;Code+with+Purpose" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=false&vCenter=true&width=600&height=55&duration=6000&lines=Coding;Code+with+Purpose" />
 </h1>
 
 ## Hey!
