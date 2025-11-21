@@ -14,7 +14,7 @@
 
 <h3 align="left">Tools & Technologies</h3>
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=java,js,docker,kubernetes,mongodb,mysql,postgres,django,spring,nodejs,express,postman,github,git,aws,gcp,vscode,py,bootstrap&perline=7&theme=dark" >
+  <img src="https://skillicons.dev/icons?i=java,js,docker,kubernetes,mongodb,mysql,postgres,django,spring,nodejs,express,postman,github,git,aws,gcp,vscode,py&perline=7&theme=dark" >
 </p>
 
 [`📫 cesaraupc@gmail.com`](mailto:maximousblk@gmail.com)
