@@ -18,5 +18,3 @@
 </p>
 
 [`📫 cesaraupc@gmail.com`](mailto:maximousblk@gmail.com)
-[`💼 LinkedIn - Cesar Pulido`](https://www.linkedin.com/in/cesarspc/)
-
